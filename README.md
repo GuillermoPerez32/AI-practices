@@ -1,2 +1,2 @@
 # AI-practices
-some examples of artificial intelligence
+### some examples of artificial intelligence
